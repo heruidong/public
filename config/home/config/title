@@ -1,7 +1,7 @@
 [{
               "dateAdd": "2017-09-12 11:07:32",
               "icon": "",
-              "id": 0,
+              "id": "all",
               "isUse": true,
               "key": "0",
               "level": 0,
@@ -13,7 +13,7 @@
             },{
               "dateAdd": "2017-09-12 11:07:32",
               "icon": "",
-              "id": 1,
+              "id": "oppo",
               "isUse": true,
               "key": "1",
               "level": 1,
@@ -25,7 +25,7 @@
             },{
               "dateAdd": "2017-09-12 11:07:32",
               "icon": "",
-              "id": 2,
+              "id": "vivo",
               "isUse": true,
               "key": "2",
               "level": 2,
@@ -37,7 +37,7 @@
             },{
               "dateAdd": "2017-09-12 11:07:32",
               "icon": "",
-              "id": 3,
+              "id": "iphone",
               "isUse": true,
               "key": "3",
               "level": 3,
