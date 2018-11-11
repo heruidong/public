@@ -1,4 +1,4 @@
-{
+{"data":{
         "logistics": {
             "isFree": true,
             "feeType": 0,
@@ -156,3 +156,4 @@
             "weight": 0
         }
     }
+}
