@@ -29,24 +29,24 @@
         },
         "pics": [
             {
-                "goodsId": 1,
+                "goodsId": 111,
                 "id": 1,
                 "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_1.jpg"
             },
             {
-                "goodsId": 2,
+                "goodsId": 111,
                 "id": 2,
                 "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_2.jpg"
             },
             {
-                "goodsId": 3,
+                "goodsId": 111,
                 "id": 3,
                 "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_3.jpg"
             },
             {
-                "goodsId": 4,
+                "goodsId": 111,
                 "id": 4,
-                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_4.jpg"
+                "pic": "https://cdn.it120.cc/apifactory/2017/09/15/c8e6d2ad475e5b86a9dc631dcecb9c4b.jpg"
             }
         ],
         "content": "<p>款式新颖OPPO-K1</p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-1.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-2.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-3.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-4.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-5.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-6.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-7.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-8.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-9.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-10.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-11.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-12.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-13.jpg\" /></p>",
@@ -125,7 +125,7 @@
             "dateUpdate": "2018-11-11 16:05:39",
             "gotScore": 0,
             "gotScoreType": 0,
-            "id": 0,
+            "id": 111,
             "kanjia": false,
             "kanjiaPrice": 0,
             "logisticsId": 0,
@@ -138,7 +138,7 @@
             "numberSells": 0,
             "originalPrice": 159,
             "paixu": 0,
-            "pic": "",
+            "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_1.jpg",
             "pingtuan": false,
             "pingtuanPrice": 0,
             "propertyIds": ",870,871,",
