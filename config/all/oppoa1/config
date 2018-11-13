@@ -31,41 +31,52 @@
             {
                 "goodsId": 111,
                 "id": 1,
-                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_1.jpg?1=1&"
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1_1.jpg?1=1&"
             },
             {
                 "goodsId": 111,
                 "id": 2,
-                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_2.jpg?1=1&"
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1_2.jpg?1=1&"
             },
             {
                 "goodsId": 111,
                 "id": 3,
-                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_3.jpg?1=1&"
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1_3.jpg?1=1&"
             },
             {
                 "goodsId": 111,
                 "id": 4,
-                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_4.jpg?1=1&"
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1_4.jpg?1=1&"
+            },
+            {
+                "goodsId": 111,
+                "id": 5,
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoA1_5.jpg?1=1&"
+            },
+            {
+                "goodsId": 111,
+                "id": 7,
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoA1_7.jpg?1=1&"
+            },
+            {
+                "goodsId": 111,
+                "id": 8,
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoA1_8.jpg?1=1&"
+            },
+            {
+                "goodsId": 111,
+                "id": 9,
+                "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoA1_9.jpg?1=1&"
             }
         ],
-        "content": "<p>款式新颖OPPO-K1</p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-1.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-2.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-3.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-4.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-5.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-6.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-7.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-8.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-9.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-10.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-11.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-12.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1-13.jpg\" /></p>",
+        "content": "<p>款式新颖OPPO A1</p><p>联系电话：13523046507</p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-1.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-2.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-3.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-4.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-5.jpg\" /></p><p><img src=\"https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1-6.jpg\" /></p>",
         "properties": [
             {
                 "childsCurGoods": [
                     {
                         "dateAdd": "2017-09-13 09:50:34",
                         "id": 1594,
-                        "name": "4G+64G",
-                        "paixu": 0,
-                        "propertyId": 870,
-                        "remark": "",
-                        "userId": 951
-                    },
-                    {
-                        "dateAdd": "2017-09-13 09:50:39",
-                        "id": 1595,
-                        "name": "6G+64G",
+                        "name": "3G+32G",
                         "paixu": 0,
                         "propertyId": 870,
                         "remark": "",
@@ -83,7 +94,7 @@
                     {
                         "dateAdd": "2017-09-13 10:42:05",
                         "id": 1607,
-                        "name": "梵星蓝",
+                        "name": "香槟色",
                         "paixu": 0,
                         "propertyId": 871,
                         "remark": "",
@@ -92,7 +103,7 @@
                     {
                         "dateAdd": "2017-09-16 14:47:57",
                         "id": 1708,
-                        "name": "摩卡红",
+                        "name": "樱桃红",
                         "paixu": 0,
                         "propertyId": 871,
                         "remark": "",
@@ -101,7 +112,7 @@
                     {
                         "dateAdd": "2017-09-16 14:47:57",
                         "id": 1709,
-                        "name": "银光绿",
+                        "name": "深海蓝",
                         "paixu": 0,
                         "propertyId": 871,
                         "remark": "",
@@ -129,7 +140,7 @@
             "kanjia": false,
             "kanjiaPrice": 0,
             "logisticsId": 386,
-            "minPrice": 1599,
+            "minPrice": 1000,
             "minScore": 0,
             "name": "OPPO K1",
             "numberFav": 0,
@@ -138,7 +149,7 @@
             "numberSells": 0,
             "originalPrice": 159,
             "paixu": 0,
-            "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppok1/oppok1_1.jpg",
+            "pic": "https://raw.githubusercontent.com/heruidong/public/master/config/all/oppoa1/oppoa1_1.jpg?1=1&",
             "pingtuan": false,
             "pingtuanPrice": 0,
             "propertyIds": ",870,871,",
