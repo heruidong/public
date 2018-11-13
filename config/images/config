@@ -1,6 +1,30 @@
 [
   {
-    "name":"oppok1_1.png",
+    "name":"oppok1_1.jpg",
     "businessId":"oppok1"
+  }, {
+    "name":"oppoa1_1.jpg",
+    "businessId":"oppoa1"
+  }, {
+    "name":"oppoA5_2.jpg",
+    "businessId":"oppoa5"
+  }, {
+    "name":"oppoA7x_2.jpg",
+    "businessId":"oppoa7x"
+  }, {
+    "name":"oppoFindX_2.jpg",
+    "businessId":"oppofindx1"
+  }, {
+    "name":"oppoR15_1.jpg",
+    "businessId":"oppor15"
+  }, {
+    "name":"oppor15x_2.jpg",
+    "businessId":"oppor15x"
+  }, {
+    "name":"oppor17_2.jpg",
+    "businessId":"oppor17"
+  }, {
+    "name":"oppoR17pro_4.jpg",
+    "businessId":"oppor17pro"
   }
 ]
